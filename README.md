@@ -13,16 +13,20 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-- **JavaScript** (React.js, React Native)
-- **HTML**, **CSS**, **Tailwind CSS**
-- **Firebase** for real-time databases and authentication
+- **HTML/CSS** (4 Years)
+- **Bootstrap** & **Tailwind CSS** (3 Years)
+- **JavaScript** (3 Years)
+- **React.js** & **React Native** (1 Year)
 
 ### Back-End
-- **Java** (Spring Boot, Hibernate)
+- **PHP** (3 Years)
+- **Laravel** (1 Year)
+- **Java** (3 Years)
 - **Node.js** (Express)
 - **RESTful APIs**, **GraphQL**
 
 ### Database
+- **SQL** (3 Years)
 - **MySQL**, **MongoDB**
 - **Firebase** (Firestore)
 
@@ -65,3 +69,18 @@ I'm always open to new opportunities, collaborations, and discussions! Feel free
 ---
 
 > "The only way to do great work is to love what you do." – Steve Jobs
+
+## 🎯 Areas of Expertise
+
+- **Web & Software Development**
+- **Mobile App Development**
+- **UI/UX Design**
+- **Project Management**
+- **Quality Assurance**
+- **Database Administration**
+
+## 🌟 Known For
+
+- Strong problem-solving abilities
+- Flexibility in team collaboration
+- Creative approaches to coding challenges
