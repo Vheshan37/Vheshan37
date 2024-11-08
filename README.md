@@ -1,4 +1,4 @@
-# Hi there, I'm Vheshan 👋
+# Hi there, I'm Vihanga Heshan 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, tech enthusiast, and lifelong learner who loves building innovative solutions. I'm constantly exploring new technologies and tools to enhance my skills and contribute to meaningful projects.
 
