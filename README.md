@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 - 🔭 I’m currently working on various IoT and mobile app development projects.
 - 🌱 I'm learning more about **AI**, **Machine Learning**, and **Web3** technologies.
 - 👯 I’m looking to collaborate on exciting open-source projects and build something impactful.
-- 💬 Ask me about **React Native**, **Java**, **IoT**, **Firebase**, and more!
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/vheshan) | [Twitter](https://twitter.com/vheshan)
+- 💬 Ask me about **Java**, **Laravel**, **React Native**, and more!
+- 📫 How to reach me: [Email](mailto:vihangaheshan37@example.com) | [LinkedIn](https://www.linkedin.com/in/vheshan)
 
 ## 🛠️ Technologies & Tools
 
@@ -33,11 +33,10 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 ### IoT & Embedded Systems
 - **Arduino** (C++)
 - **ESP32** for Wi-Fi and Bluetooth communication
-- **Raspberry Pi** for edge computing and automation
 
 ### Tools
 - **GitHub** & **GitLab** for version control
-- **Visual Studio Code**, **NetBeans**, **Arduino IDE**
+- **Visual Studio Code**, **NetBeans**, **Arduino IDE**, **Andriod Studio**
 - **Figma** for UI/UX Design
 
 ## 🌟 Highlighted Projects
