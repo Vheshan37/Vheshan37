@@ -16,19 +16,17 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 - **HTML/CSS** (4 Years)
 - **Bootstrap** & **Tailwind CSS** (3 Years)
 - **JavaScript** (3 Years)
-- **React.js** & **React Native** (1 Year)
+- **React Native** (1 Year)
 
 ### Back-End
 - **PHP** (3 Years)
 - **Laravel** (1 Year)
 - **Java** (3 Years)
-- **Node.js** (Express)
-- **RESTful APIs**, **GraphQL**
+- **RESTful APIs**
 
 ### Database
 - **SQL** (3 Years)
 - **MySQL**, **MongoDB**
-- **Firebase** (Firestore)
 
 ### IoT & Embedded Systems
 - **Arduino** (C++)
@@ -44,14 +42,11 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 ### 🔥 [FlameGuard](https://github.com/Vheshan37/Flame-Guard)
 An IoT-based fire detection and alert system, integrating hardware (Arduino, flame and smoke sensors) and software (React Native, Java backend). The system provides real-time fire alerts and notifications to users' mobile devices.
 
-### 📱 [ChatApp](https://github.com/Vheshan37/ChatApp)
+### 📱 [ChatApp](https://github.com/Vheshan37/Say_Hi_Chat_Application)
 A real-time chat application built with React Native and Firebase for user authentication, message storage, and notifications. Built to handle large-scale user interactions with scalable back-end services.
 
-### 💻 [E-Commerce Web App](https://github.com/Vheshan37/E-Commerce-App)
+### 💻 [E-Commerce Web App](https://github.com/Vheshan37/TechMart-Computer-Shop)
 An e-commerce platform with a complete shopping experience, developed with Java and integrated with a MySQL database for order and inventory management.
-
-### 🔧 [IoT Smart Home System](https://github.com/Vheshan37/IoT-Smart-Home)
-An IoT system to control smart home devices like lights, fans, and appliances remotely through a mobile app, with data managed and processed via the cloud.
 
 ## 🏆 GitHub Stats
 
