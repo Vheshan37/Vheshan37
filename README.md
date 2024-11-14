@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 - 🌱 I'm learning more about **AI**, **Machine Learning**, and **Web3** technologies.
 - 👯 I’m looking to collaborate on exciting open-source projects and build something impactful.
 - 💬 Ask me about **Java**, **PHP**, **JavaScript**, and more!
-- 📫 How to reach me: [Email](mailto:vihangaheshan37@gmail.com) | [Whatsapp](https://wa.me/+94719892932)
+- 📫 How to reach me: [Email](mailto:vihangaheshan37@gmail.com) | [Whatsapp](https://wa.me/+94719892932?text=Hi%20Vihanga!%20I%20came%20across%20your%20GitHub%20profile%20and%20am%20interested%20in%20your%20work.%20Let’s%20connect%20and%20see%20how%20we%20can%20collaborate!
+)
 
 ## 🛠️ Technologies & Tools
 
