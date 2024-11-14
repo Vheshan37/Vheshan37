@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various IoT and mobile app development projects.
+- 🔭 I’m currently working on IoT and mobile app development projects.
 - 🌱 I'm learning more about **AI**, **Machine Learning**, and **Web3** technologies.
 - 👯 I’m looking to collaborate on exciting open-source projects and build something impactful.
-- 💬 Ask me about **Java**, **Laravel**, **React Native**, and more!
-- 📫 How to reach me: [Email](mailto:vihangaheshan37@example.com) | [LinkedIn](https://www.linkedin.com/in/vheshan)
+- 💬 Ask me about **Java**, **PHP**, **JavaScript**, and more!
+- 📫 How to reach me: [Email](mailto:vihangaheshan37@example.com) | [Whatsapp](https://wa.me/+94719892932)
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 
 ### Back-End
 - **PHP** (3 Years)
-- **Laravel** (1 Year)
+- **Laravel** (6 Year)
 - **Java** (3 Years)
 - **RESTful APIs**
 
