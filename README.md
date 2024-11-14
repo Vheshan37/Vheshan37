@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 - 🌱 I'm learning more about **AI**, **Machine Learning**, and **Web3** technologies.
 - 👯 I’m looking to collaborate on exciting open-source projects and build something impactful.
 - 💬 Ask me about **Java**, **PHP**, **JavaScript**, and more!
-- 📫 How to reach me: [Email](mailto:vihangaheshan37@example.com) | [Whatsapp](https://wa.me/+94719892932)
+- 📫 How to reach me: [Email](mailto:vihangaheshan37@gmail.com) | [Whatsapp](https://wa.me/+94719892932)
 
 ## 🛠️ Technologies & Tools
 
@@ -77,7 +77,7 @@ An e-commerce platform with a complete shopping experience, developed with Java 
 
 ## 💬 Let's Connect!
 
-I'm always open to new opportunities, collaborations, and discussions! Feel free to reach out to me on [Twitter](https://twitter.com/vheshan) or [LinkedIn](https://www.linkedin.com/in/vheshan).
+I'm always open to new opportunities, collaborations, and discussions! Feel free to reach out to me on [Email](mailto:vihangaheshan37@gmail.com) | [Whatsapp](https://wa.me/+94719892932)
 
 ---
 
