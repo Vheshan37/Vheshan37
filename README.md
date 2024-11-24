@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, tech enthusia
 
 ### Back-End
 - **PHP** (3 Years)
-- **Laravel** (6 Year)
+- **Laravel** (6 Month)
 - **Java** (3 Years)
 - **RESTful APIs**
 
